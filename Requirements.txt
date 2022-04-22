@@ -1,0 +1,19 @@
+- Storing in database
+- Creating reports
+- Quick searching
+- Automatic report register (automatically generated logs from every day)
+
+Types of members:
+- Head (Gaba, Martyna, Krzysiek)
+- Member (reszta)
+- IT (Franio, Skomor)
+
+Head:
+- Call the Alarm - short message + notification for all members
+- Download Report from [day] - creates a file with data from the 
+data base about interventions that happened on a certain day
+
+IT:
+- Call TEST Alarm - for testing
+- Add/Remove Member - self explanatory
+- Reading logs
